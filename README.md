@@ -2,7 +2,7 @@
 
 这是一个可运行、可学习、可扩展的小型研究项目。它把“大模型后训练 + 工具调用 + 强化学习”的核心流程缩小到普通电脑能跑的尺度。
 
-你可以把它当成申请 AI PhD / RA 前的作品雏形：代码自包含、实验可复现、有 SFT/DPO/RL、有评测、有图表、有英文 technical report。
+作品雏形：代码自包含、实验可复现、有 SFT/DPO/RL、有评测、有图表、有英文 technical report。
 
 ## 项目做了什么
 
@@ -149,4 +149,4 @@ outputs/quickstart/
 - 把工具从 calculator 扩展到 Python sandbox、检索、单位换算。
 - 加入更自然的题目措辞，测试 out-of-distribution generalization。
 - 做 reward ablation：去掉格式奖励、去掉 KL、改变容错阈值。
-- 把科学题换成你自己的物理/低空治理场景。
+- 把科学题换成你自己的物理场景。
