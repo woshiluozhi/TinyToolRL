@@ -1,0 +1,12 @@
+{
+  "n": 100,
+  "accuracy": 0.96,
+  "format_rate": 1,
+  "mean_reward": 0.9740329663768595,
+  "accuracy/acceleration": 0.9130434782608695,
+  "accuracy/density": 1,
+  "accuracy/kinetic_energy": 1,
+  "accuracy/ohm_law": 1,
+  "accuracy/pressure": 0.8571428571428571,
+  "accuracy/wave_speed": 1
+}

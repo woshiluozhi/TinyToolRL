@@ -1,0 +1,1 @@
+{"epoch": 1, "step": 30, "train_loss": 0.7006966869036356, "n": 100, "accuracy": 0.96, "format_rate": 1, "mean_reward": 0.9680007645740855, "accuracy/acceleration": 0.9411764705882353, "accuracy/density": 1, "accuracy/kinetic_energy": 1, "accuracy/ohm_law": 0.8888888888888888, "accuracy/pressure": 0.9375, "accuracy/wave_speed": 1}

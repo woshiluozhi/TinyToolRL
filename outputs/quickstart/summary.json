@@ -1,0 +1,43 @@
+{
+  "sft": {
+    "n": 100,
+    "accuracy": 0.97,
+    "format_rate": 1,
+    "mean_reward": 0.9840003363564411,
+    "accuracy/acceleration": 0.9411764705882353,
+    "accuracy/density": 1,
+    "accuracy/kinetic_energy": 1,
+    "accuracy/ohm_law": 1,
+    "accuracy/pressure": 0.8333333333333334,
+    "accuracy/wave_speed": 1
+  },
+  "dpo": {
+    "n": 100,
+    "accuracy": 0.96,
+    "format_rate": 1,
+    "mean_reward": 0.9680007645740855,
+    "accuracy/acceleration": 0.9411764705882353,
+    "accuracy/density": 1,
+    "accuracy/kinetic_energy": 1,
+    "accuracy/ohm_law": 0.8888888888888888,
+    "accuracy/pressure": 0.9375,
+    "accuracy/wave_speed": 1
+  },
+  "rl": {
+    "n": 100,
+    "accuracy": 0.96,
+    "format_rate": 1,
+    "mean_reward": 0.9740329663768595,
+    "accuracy/acceleration": 0.9130434782608695,
+    "accuracy/density": 1,
+    "accuracy/kinetic_energy": 1,
+    "accuracy/ohm_law": 1,
+    "accuracy/pressure": 0.8571428571428571,
+    "accuracy/wave_speed": 1
+  },
+  "figures": [
+    "C:\\Users\\lz\\Documents\\Codex\\2026-05-20\\ai-gpt-small-scale-rl-post\\outputs\\quickstart\\figures\\sft_loss.png",
+    "C:\\Users\\lz\\Documents\\Codex\\2026-05-20\\ai-gpt-small-scale-rl-post\\outputs\\quickstart\\figures\\sft_accuracy.png",
+    "C:\\Users\\lz\\Documents\\Codex\\2026-05-20\\ai-gpt-small-scale-rl-post\\outputs\\quickstart\\figures\\rl_reward.png"
+  ]
+}

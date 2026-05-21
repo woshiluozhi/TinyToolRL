@@ -1,0 +1,62 @@
+[
+  {
+    "idx": 0,
+    "kind": "kinetic_energy",
+    "target_expression": "0.5*3*19**2",
+    "target_result": 541.5,
+    "generated_call": "CALL: CALC[0.5*3*19**2]\\n",
+    "generated_expression": "0.5*3*19**2",
+    "observation": 541.5,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 1,
+    "kind": "acceleration",
+    "target_expression": "30/3",
+    "target_result": 10.0,
+    "generated_call": "CALL: CALC[30/3]\\n",
+    "generated_expression": "30/3",
+    "observation": 10.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 2,
+    "kind": "wave_speed",
+    "target_expression": "14*2",
+    "target_result": 28,
+    "generated_call": "CALL: CALC[14*2]\\n",
+    "generated_expression": "14*2",
+    "observation": 28.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 3,
+    "kind": "wave_speed",
+    "target_expression": "9*11",
+    "target_result": 99,
+    "generated_call": "CALL: CALC[9*11]\\n",
+    "generated_expression": "9*11",
+    "observation": 99.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 4,
+    "kind": "acceleration",
+    "target_expression": "90/15",
+    "target_result": 6.0,
+    "generated_call": "CALL: CALC[90/15]\\n",
+    "generated_expression": "90/15",
+    "observation": 6.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  }
+]

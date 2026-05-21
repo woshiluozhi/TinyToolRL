@@ -1,0 +1,62 @@
+[
+  {
+    "idx": 0,
+    "kind": "pressure",
+    "target_expression": "18/2",
+    "target_result": 9.0,
+    "generated_call": "CALL: CALC[18/2]\\n",
+    "generated_expression": "18/2",
+    "observation": 9.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 1,
+    "kind": "acceleration",
+    "target_expression": "48/4",
+    "target_result": 12.0,
+    "generated_call": "CALL: CALC[48/4]\\n",
+    "generated_expression": "48/4",
+    "observation": 12.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 2,
+    "kind": "acceleration",
+    "target_expression": "130/13",
+    "target_result": 10.0,
+    "generated_call": "CALL: CALC[130/13]\\n",
+    "generated_expression": "130/13",
+    "observation": 10.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 3,
+    "kind": "kinetic_energy",
+    "target_expression": "0.5*8*11**2",
+    "target_result": 484.0,
+    "generated_call": "CALL: CALC[0.5*8*11**2]\\n",
+    "generated_expression": "0.5*8*11**2",
+    "observation": 484.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  },
+  {
+    "idx": 4,
+    "kind": "density",
+    "target_expression": "30/2",
+    "target_result": 15.0,
+    "generated_call": "CALL: CALC[30/2]\\n",
+    "generated_expression": "30/2",
+    "observation": 15.0,
+    "correct": true,
+    "reward": 1.0,
+    "error": ""
+  }
+]
